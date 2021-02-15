@@ -9,7 +9,7 @@ const Checkout = () => {
                 <img className="checkout__ad" src={ Add_img } alt=""/>
                 <div>
                     <h2 className="checkout__title">
-                        Your Shopinf Basket
+                        Your Shoping Basket
                     </h2>
                 </div>
             </div>
